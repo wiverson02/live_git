@@ -13,3 +13,5 @@ git pull // O git pull serve pra puxar o código do servidor git, Atualizar o qu
 
 cd "nome da pasta" // para entrar na pasta
 cd .. // para voltar uma pasta
+
+Tiago Mudanças
