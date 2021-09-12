@@ -10,6 +10,9 @@ git log // para ver todos os commits feitos.
 git push // Git push é pra mandar o código da tua máquina pro teu servidor
 git clone //  O git clone também é pra puxar o código, só que é só quando tu não tem o código na tua máquina, como se fosse a primeira vez que tu vai usar ele
 git pull // O git pull serve pra puxar o código do servidor git, Atualizar o que já tem na tua máquina
+git checkout // para mudar de branch
+git branch // para mostrar as branch
+git checkout -b // criar uma branch
 
 cd "nome da pasta" // para entrar na pasta
 cd .. // para voltar uma pasta
